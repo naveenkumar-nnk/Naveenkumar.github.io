@@ -1,0 +1,68 @@
+<CENTER><h1>NAVEEN KUMAR N</h1>
+<h2>Training|Tech News|Freshers Guide</h2>
+<p>Empovering Young developers to level up their skills through training in software development technologies👨</p>
+
+<hr>
+<h1> Registration Form</h1>
+<form>
+    <table>
+        <tr>
+            <td>Name:</td>
+            <td><input type="text"></td>
+        </tr>
+        <tr>
+            <td>
+                Age:
+            </td>
+            <td><input type="number"></td>
+        </tr>
+        <tr>
+            <td>Gender:</td>
+            <td>Male <input type="radio"></td>
+            <td>Female: <input type="radio"></td>
+        </tr>
+        <tr>
+            <td>
+                Email:
+            </td>
+            <td><input type="email"></td>
+        </tr>
+        <tr>
+            <td>
+                Enter your Place:
+            </td>
+            <td>
+                <input type="text">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Select a Course
+            </td>
+          <td>  <select>
+                <option>Full Stack development</option>
+                <option>Pyhton</option>
+                <option>HTML</option>
+            </select> </td>
+            </tr>
+            <tr>
+                <td>
+                    Upload Your Resume
+                </td>
+                <td>
+                    <input type="file">
+                </td>
+            </tr>
+            <tr>
+                <td><input type="reset"></td>
+                <td><input type="submit"></td>
+            </tr>
+            
+    </table>
+</form>
+<hr>
+<a href="https://www.linkedin.com/jobs/">Home</a><a  href="https://chatgpt.com">|Instagram</a><a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">|Youtube</a>
+<hr>
+<h1>THANK YOU</h1>
+<hr>
+</CENTER>
